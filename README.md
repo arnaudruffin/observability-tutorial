@@ -27,6 +27,11 @@ Also, create a **dedicated** network for the tutorial
 docker network create observability_tutorial
 ```
 
+##### With Gitpod 
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/arnaudruffin/observability-tutorial.git)
+
+
 
 ## Build
 
